@@ -1,5 +1,4 @@
 '''
-John Savarese
 Week 10
 Assignment 10.1
 CIS245-T302-T801
